@@ -1,4 +1,4 @@
-# etalon_aide
+# Etalon Aide
 
 Une application pour aider les étudiants à trouver des réductions INCRYOABLES Merci ETALON AIDE
 
